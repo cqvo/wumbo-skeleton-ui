@@ -32,7 +32,8 @@
 		}
 	},
 	"peerDependencies": {
-		"svelte": "^5.0.0"
+		"svelte": "^5.0.0",
+		"@sveltejs/kit": "^2.16.0"
 	},
 	"devDependencies": {
 		"@chromatic-com/storybook": "^4",
@@ -50,7 +51,6 @@
 		"@storybook/addon-vitest": "^9.0.4",
 		"@storybook/sveltekit": "^9.0.4",
 		"@sveltejs/adapter-auto": "^6.0.0",
-		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/package": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"@tailwindcss/forms": "^0.5.9",
