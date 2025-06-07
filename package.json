@@ -1,5 +1,8 @@
 {
-	"name": "wumbo-skeleton-ui",
+	"name": "@wumbotech/wumbo-skeleton-ui",
+	"publishConfig": {
+		"access": "public"
+	},
 	"version": "1.0.0",
 	"scripts": {
 		"dev": "vite dev",
